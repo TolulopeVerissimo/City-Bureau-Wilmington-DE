@@ -1,9 +1,5 @@
 # City Scrapers Template
 
-[![CI build status](https://github.com/City-Bureau/city-scrapers-template/workflows/CI/badge.svg)](https://github.com/City-Bureau/city-scrapers-template/actions?query=workflow%3ACI)
-[![Cron build status](https://github.com/City-Bureau/city-scrapers-template/workflows/Cron/badge.svg)](https://github.com/City-Bureau/city-scrapers-template/actions?query=workflow%3ACron)
-
-Template repo for creating a [City Scrapers](https://cityscrapers.org/) project in your area to scrape, standardize and share public meetings from local government websites. You can find more information on the [project homepage](https://cityscrapers.org/) or in the original City Scrapers repo for the Chicago area: [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers).
 
 ## Setup
 
